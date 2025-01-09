@@ -1,2 +1,2 @@
-# Deemphasize HTML files (treated as binary, no diffs shown)
-*.html filter=lfs diff=lfs merge=lfs -text
+
+AirBnb Python.html filter=lfs diff=lfs merge=lfs -text
