@@ -1,2 +1,2 @@
-*.ipynb linguist-language=Jupyter Notebook
-*.html linguist-vendored
+# Deemphasize HTML files (treated as binary, no diffs shown)
+*.html filter=lfs diff=lfs merge=lfs -text
