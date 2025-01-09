@@ -1,8 +1,11 @@
 # AirBnB Listing Analysis
 
-Welcome to my project analyzing AirBnB listings in Paris! This analysis explores how recent regulations have impacted host activity and listing prices. The dataset includes detailed information on over 250,000 AirBnB listings from 10 major cities, along with nearly 5 million guest reviews. My focus is on Paris, where I investigate trends in pricing, hosting, and accommodations.
+Welcome to my project analyzing AirBnB listings in Paris! This analysis explores how recent regulations have impacted host activity and listing prices. The dataset includes detailed information on over 250,000 AirBnB listings from 10 major cities and nearly 5 million guest reviews. My focus is on Paris, where I investigate pricing, hosting, and accommodations trends.
 
 ---
+## About This Project
+
+This analysis is part of a guided project from [Maven Analytics](https://app.mavenanalytics.io/guided-projects/4fee7ee7-4c04-46e7-9f3e-99b987980842). The project provided a structured approach to explore, analyze, and visualize AirBnB listings data while enhancing my Python and data analysis skills.
 
 ## Project Objectives
 
